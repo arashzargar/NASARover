@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NASA.MarsRover.Core", "NASA.MarsRover.Core\NASA.MarsRover.Core.csproj", "{DFFA1796-09A9-4146-ABFF-9A8B695CEE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NASA.MarsRover.Test", "NASA.MarsRover.Test\NASA.MarsRover.Test.csproj", "{A201493A-ADB6-45EE-9D83-6557974E2262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NASA.MarsRover.App", "NASA.MarsRover.Console\NASA.MarsRover.App.csproj", "{6260E893-EE33-4D52-9DC0-BA3EAD2937CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFA1796-09A9-4146-ABFF-9A8B695CEE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFA1796-09A9-4146-ABFF-9A8B695CEE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFA1796-09A9-4146-ABFF-9A8B695CEE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFA1796-09A9-4146-ABFF-9A8B695CEE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A201493A-ADB6-45EE-9D83-6557974E2262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A201493A-ADB6-45EE-9D83-6557974E2262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A201493A-ADB6-45EE-9D83-6557974E2262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A201493A-ADB6-45EE-9D83-6557974E2262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6260E893-EE33-4D52-9DC0-BA3EAD2937CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6260E893-EE33-4D52-9DC0-BA3EAD2937CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6260E893-EE33-4D52-9DC0-BA3EAD2937CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6260E893-EE33-4D52-9DC0-BA3EAD2937CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B48B2F59-2816-4216-92DD-87BA2769F377}
+	EndGlobalSection
+EndGlobal

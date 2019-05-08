@@ -1,0 +1,17 @@
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Core\bin\Debug\netcoreapp2.2\NASA.MarsRover.Core.deps.json
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Core\bin\Debug\netcoreapp2.2\NASA.MarsRover.Core.dll
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Core\bin\Debug\netcoreapp2.2\NASA.MarsRover.Core.pdb
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.csproj.CoreCompileInputs.cache
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.AssemblyInfoInputs.cache
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.AssemblyInfo.cs
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.dll
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.pdb
+C:\Users\arash.zargar\Documents\GitHub\NASARover\NASA.MarsRover.Core\bin\Debug\netcoreapp2.2\NASA.MarsRover.Core.deps.json
+C:\Users\arash.zargar\Documents\GitHub\NASARover\NASA.MarsRover.Core\bin\Debug\netcoreapp2.2\NASA.MarsRover.Core.dll
+C:\Users\arash.zargar\Documents\GitHub\NASARover\NASA.MarsRover.Core\bin\Debug\netcoreapp2.2\NASA.MarsRover.Core.pdb
+C:\Users\arash.zargar\Documents\GitHub\NASARover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.csprojAssemblyReference.cache
+C:\Users\arash.zargar\Documents\GitHub\NASARover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.csproj.CoreCompileInputs.cache
+C:\Users\arash.zargar\Documents\GitHub\NASARover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.AssemblyInfoInputs.cache
+C:\Users\arash.zargar\Documents\GitHub\NASARover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.AssemblyInfo.cs
+C:\Users\arash.zargar\Documents\GitHub\NASARover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.dll
+C:\Users\arash.zargar\Documents\GitHub\NASARover\NASA.MarsRover.Core\obj\Debug\netcoreapp2.2\NASA.MarsRover.Core.pdb

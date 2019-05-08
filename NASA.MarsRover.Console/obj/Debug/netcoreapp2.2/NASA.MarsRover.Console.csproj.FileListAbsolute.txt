@@ -1,0 +1,4 @@
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Console\obj\Debug\netcoreapp2.2\NASA.MarsRover.Console.csprojAssemblyReference.cache
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Console\obj\Debug\netcoreapp2.2\NASA.MarsRover.Console.csproj.CoreCompileInputs.cache
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Console\obj\Debug\netcoreapp2.2\NASA.MarsRover.Console.AssemblyInfoInputs.cache
+C:\Users\arash.zargar\source\repos\NASA.MarsRover\NASA.MarsRover.Console\obj\Debug\netcoreapp2.2\NASA.MarsRover.Console.AssemblyInfo.cs
